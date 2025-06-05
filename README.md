@@ -2,9 +2,8 @@
 
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-brightgreen.svg)](https://www.arduino.cc/)
 [![ESP32](https://img.shields.io/badge/ESP32-Supported-blue.svg)](https://espressif.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
 [![YouTube](https://img.shields.io/badge/YouTube-Tutorial%20Series-red.svg)](https://www.youtube.com/playlist?list=PLrZbkNpNVSwwBlIkETVtyEscY6WLFQlGf)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/esp32-weather-station.svg)](https://github.com/yourusername/esp32-weather-station/graphs/contributors)
 
 > **Advanced ESP32-based weather monitoring system with dual temperature sensors, continuous WiFi operation, real-time web dashboard, and mobile-responsive interface. Perfect for 24/7 environmental monitoring applications.**
 
@@ -213,8 +212,7 @@ Status LED     →  Built-in LED or External LED
 
 ```bash
 # Step-by-step upload process
-1. Clone this repository
-   git clone https://github.com/yourusername/esp32-weather-station.git
+1. Download or clone this repository
 
 2. Open esp32_weather_station.ino in Arduino IDE
 
@@ -665,17 +663,17 @@ Before submitting feature requests:
 ### 📋 **Development Setup**
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/esp32-weather-station.git
+# Download the repository
+# Extract files to your project directory
 cd esp32-weather-station
 
-# Create development branch
+# Create development branch (if using git)
 git checkout -b feature/your-feature-name
 
 # Make changes and test
 # Update documentation
 
-# Commit and push
+# Commit and push (if using git)
 git add .
 git commit -m "Add: New sensor support with calibration"
 git push origin feature/your-feature-name
@@ -727,7 +725,7 @@ This project was inspired by the need for reliable, continuous weather monitorin
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see below for details.
 
 ```
 MIT License
@@ -758,10 +756,16 @@ SOFTWARE.
 ## 📞 Support
 
 ### 💬 **Get Help**
-- **GitHub Issues**: [Report bugs or request features](https://github.com/horizonhnk/esp32-weather-station/issues)
 - **YouTube Comments**: Ask questions on tutorial videos
 - **Arduino Forum**: Community support for hardware issues
 - **ESP32 Discord**: Real-time chat with other developers
+- **Reddit Communities**: r/arduino, r/esp32, r/IoT
+
+### 📚 **Additional Resources**
+- **ESP32 Documentation**: Official Espressif documentation
+- **Arduino Reference**: Arduino programming reference
+- **Component Datasheets**: DHT22 and TMP36 specifications
+
 ---
 
 <div align="center">
@@ -769,7 +773,5 @@ SOFTWARE.
 ### 🌟 **Star this repository if it helped you!** 🌟
 
 **Made with ❤️ by the ESP32 Community**
-
-[⬆ Back to Top](#-esp32-weather-station---dual-sensor-monitoring-system)
 
 </div>
