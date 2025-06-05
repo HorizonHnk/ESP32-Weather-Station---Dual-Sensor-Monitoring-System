@@ -758,15 +758,15 @@ SOFTWARE.
 ## 📞 Support
 
 ### 💬 **Get Help**
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/esp32-weather-station/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/horizonhnk/esp32-weather-station/issues)
 - **YouTube Comments**: Ask questions on tutorial videos
 - **Arduino Forum**: Community support for hardware issues
 - **ESP32 Discord**: Real-time chat with other developers
 
 ### 📊 **Project Stats**
-![GitHub stars](https://img.shields.io/github/stars/yourusername/esp32-weather-station.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/esp32-weather-station.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/esp32-weather-station.svg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/horizonhnk/esp32-weather-station.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/horizonhnk/esp32-weather-station.svg?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/horizonhnk/esp32-weather-station.svg?style=social)
 
 ---
 
