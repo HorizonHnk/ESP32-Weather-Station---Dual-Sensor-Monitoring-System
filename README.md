@@ -762,12 +762,6 @@ SOFTWARE.
 - **YouTube Comments**: Ask questions on tutorial videos
 - **Arduino Forum**: Community support for hardware issues
 - **ESP32 Discord**: Real-time chat with other developers
-
-### 📊 **Project Stats**
-![GitHub stars](https://img.shields.io/github/stars/horizonhnk/esp32-weather-station.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/horizonhnk/esp32-weather-station.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/horizonhnk/esp32-weather-station.svg?style=social)
-
 ---
 
 <div align="center">
